@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kennedywanjahi
-- 👀 I’m interested in web technologies and cloud computing
+
+- 👀 Changing The World Commit by Commit
 
 
 <!---
